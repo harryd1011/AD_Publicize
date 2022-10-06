@@ -6,7 +6,7 @@ if (!empty($_SESSION['logged_in'])) {
 
 ?>
 <!DOCTYPE html>
-<html lang="un">
+<html lang="en">
 
 <head>
   <meta charset="UTF-8" />
